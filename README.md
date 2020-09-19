@@ -35,6 +35,9 @@ A web tool for education that provides a graphical interface to generate data st
 ### Face Detector ([Link](https://github.com/SamuelBFavarin/faceDetect))
 Tool developed with Python and OpenCV to detect faces and apply fun filters in real-time.
 
+See all Open Source Projects [here](https://github.com/SamuelBFavarin?tab=repositories)
+
+
 ## Achievements :trophy:
 
 ### TuApp 2015 finalist in Valparaíso, Chile
