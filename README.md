@@ -2,9 +2,9 @@
 
 [See this content in portuguese](https://github.com/SamuelBFavarin/SamuelBFavarin/blob/master/README.md) | [See my english resume :page_facing_up:](https://docs.google.com/document/d/1Sk5FmRVJ_zdNIYH7NbtLa3vyvaOFEeQ6s2eA7tVut80/edit?usp=sharing) | [Send me a message in WhatsApp :telephone_receiver:](https://api.whatsapp.com/send?phone=5548999664100) 
 
-I'm Samuel Favarin, I have a Bacharel Degree in Computer Science, and currently, I work as a Software Engineer at Conecta Nuvem. I started programming at 15 years old, and since then, I worked with many technologies for desktop, web, and mobile development. I worked with Delphi, C++, Java, Javascript (Jquery, Vue, Cordova, React Native), PHP, Python (Flask, Django, Matplotlib, Scikit-learn, Pandas), MySQL, Postgress, Google Datastore, BigQuery, Google Cloud.
+I'm Samuel Favarin, I have a Bacharel Degree in Computer Science, and currently, I work as a Software Engineer at Dextra. I started programming at 15 years old, and since then, I worked with many technologies for desktop, web, and mobile development. I worked with Delphi, C++, Java, Javascript (Jquery, Vue, Cordova, React Native), PHP, Python (Flask, Django, Matplotlib, Scikit-learn, Pandas), MySQL, Postgress, Google Datastore, BigQuery, Google Cloud.
 
-Today, I'm focusing to improve my code quality skills, applying unit tests, code refactoring, and design partners.
+Today my work and studies are focused on Big Data technologies, such as Hadoop, Sypark, HBase and Kafka.
 
 ## Social Media :raising_hand:
 
